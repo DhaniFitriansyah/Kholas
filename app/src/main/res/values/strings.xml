@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kholas</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">KHOLAS</string>
+    <string name="slide_1_desc">Kholas merupakan aplikasi Al-Quran yang dilengkapi dengan fitur reminder tilawah.Langkah sederhana Tentukan target tilawah dan baca Quran Digital</string>
+
+    <string name="slide_2_title">TARGET</string>
+    <string name="slide_2_desc">Tentukan target tilawah Anda dalam sehari</string>
+
+    <string name="slide_3_title">Baca Quran</string>
+    <string name="slide_3_desc">Baca Al-Quran Digital yang sudah disediakan di aplikasi ini. Bacaan Anda akan tercatat pada bookmark</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_1">Kamu ada di halaman Surat</string>
+    <string name="tab_2">Kamu ada di halaman Juz</string>
+    <string name="tab_3">Kamu ada di halaman Bookmark</string>
+
+    <string-array name="target">
+        <item>1 Lembar</item>
+        <item>2 Lembar</item>
+        <item>3 Lembar</item>
+        <item>4 Lembar</item>
+        <item>5 Lembar</item>
+        <item>6 Lembar</item>
+        <item>7 Lembar</item>
+        <item>8 Lembar</item>
+        <item>9 Lembar</item>
+        <item>1 Juz</item>
+        <item>2 Juz</item>
+        <item>3 Juz</item>
+        <item>4 Juz</item>
+        <item>5 Juz</item>
+    </string-array>
+
+</resources>
