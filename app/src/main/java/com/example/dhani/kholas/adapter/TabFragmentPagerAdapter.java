@@ -10,7 +10,7 @@ import com.example.dhani.kholas.fragmen.Bookmark;
 
 public class TabFragmentPagerAdapter extends FragmentPagerAdapter{
     String[] title = new String[]{
-            "Surat", "Juz", "Bookmark"
+            "Surat", "Juz", "Prestasi"
     };
 
     public TabFragmentPagerAdapter(FragmentManager fm) {

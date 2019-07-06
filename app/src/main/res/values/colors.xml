@@ -5,6 +5,7 @@
     <color name="colorAccent">#3B9B95</color>
     <color name="colorSecond">#292F36</color>
     <color name="colorThird">#3C4F76</color>
+    <color name="colorFourth">#FFFACD</color>
 
     <!-- Screens background color-->
     <color name="bg_screen1">#DDDBF1</color>
